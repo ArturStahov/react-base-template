@@ -7,4 +7,7 @@ add^
 - git-page; npm install --save gh-pages
 - husky, lintstaged, prettier; npm install --save-dev prettier husky lint-staged
 - base css;
-- css normalize
+- css normalize @csstools/normalize.css
+- redux
+- react-redux
+- redux-toolkit @reduxjs/toolkit
